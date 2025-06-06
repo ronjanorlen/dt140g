@@ -22,6 +22,16 @@ Please note that this repository is _not_ intended to be cloned or used in produ
 
 ---
 
+## Explore DoDays
+
+[Visit DoDays website](https://www.dodays.co.uk/)
+
+<a href="https://www.dodays.co.uk/" target="_blank" rel="noopener noreferrer">
+  <img src="dodays.png" alt="DoDays homepage" width="500" />
+</a>
+
+---
+
 ## Skapad:
 
 **Av:** Ronja Norlén  
